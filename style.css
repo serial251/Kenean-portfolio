@@ -356,11 +356,11 @@ footer:hover {
 	z-index: -1;
 	transition: background 0.3s ease;
 }
-#home { background-image: url('image1.jpg'); }
-#services { background-image: url('image2.jpg'); }
-#about { background-image: url('image3.jpg'); }
-#projects { background-image: url('image4.jpg'); }
-#skills { background-image: url('image5.jpg'); }
+#home { background-image: url('https://ibb.co/hJNNB29D'); }
+#services { background-image: url('https://ibb.co/w1yh83q'); }
+#about { background-image: url('https://ibb.co/yFpZfJsq'); }
+#projects { background-image: url('https://ibb.co/nsVPrtSv'); }
+#skills { background-image: url('https://ibb.co/fV6v5XsY'); }
 #contact-video {
 	position: absolute;
 	top: 50%;
@@ -438,4 +438,5 @@ input[type="range"]::-moz-range-thumb {
 		padding: 100px 16px 32px 16px;
 		background-attachment: scroll;
 	}
+
 }
